@@ -49,7 +49,7 @@
 
 **项目简介：** 该网站是一个供全公司员工使用的一站式办公、资讯平台，集成了 OA、差旅报销等多个系统，实现了发布文章、发帖评论、回复点赞、消息提醒、待办流程、内容搜索、单点登录、数据统计等功能。支持匿名评论、定时发布、附件上传。用户数 5000，日活 1000，QPS 300。
 
-**技术栈：**Spring MVC + MyBatis + MySQL + Redis + RabbitMQ + Nginx + ELK
+**技术栈**：Spring MVC + MyBatis + MySQL + Redis + RabbitMQ + Nginx + ELK
 
 **工作内容：**
 
@@ -69,7 +69,7 @@
 
 **项目简介：** 一款针对预定会议室解决方案的 Saas 产品，有 Mac 端、 Win 端、小程序。用户可在企微小程序查询可用会议室，并预定会议室，同时同步到对应会议室终端面板显示，用户可在 App 上查看预定的会议室和获取投屏码。并具备签到、提醒、释放、一键投屏等功能。产品上线后逐步推广到全公司使用，并与宁波银行等企业签约投入使用。
 
-**技术栈：**Spring Boot + MyBatis Plus + MySQL + Redis + RabbitMQ + Nacos + PowerJob
+**技术栈**：Spring Boot + MyBatis Plus + MySQL + Redis + RabbitMQ + Nacos + PowerJob
 
 **工作内容：**
 
